@@ -37,15 +37,15 @@ Pode -> apenas visualizar e consultar contatos
 
 
 
-![image-20211212185156021](C:\Users\Joanes\AppData\Roaming\Typora\typora-user-images\image-20211212185156021.png)
+<img img src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/schema.png">
 
 
 
 ###### 0.2 Script da tabela no banco de dados Sql Server 2008 R2
+<br/>
 
 
-
-![image-20211212185510692](C:\Users\Joanes\AppData\Roaming\Typora\typora-user-images\image-20211212185510692.png)
+<img width="600" img src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/banco.JPG">
 
 
 
