@@ -12,18 +12,25 @@ Critérios estabelecidos pelo coordenador do núcleo de TI.
 
 **Objetivo:**
 
-Desenvolver uma agenda que fique online no servidor, conectado com o banco de dados da empresa, e criar um banco próprio e cadastrar: *cargo, contato, departamento, telefone, unidade e tipo da unidade*, dos **colaboradores**. O objetivo era substituir a agenda criada em uma página HTML no qual, qualquer alteração, era feita manualmente.
+Desenvolver uma agenda que fique online no servidor, conectado com o banco de dados da empresa, e criar um banco próprio e cadastrar: *cargo, contato, departamento, telefone, unidade e tipo da unidade*, dos **colaboradores**. O objetivo era substituir a agenda criada em uma página HTML no qual, qualquer alteração, era feita manualmente. Basicamente os colaboradores procuram outros colaboradores, afim de descobrir ramal de onde a pessoa se encontra, unidade e talvez o telefone pessoal ( se tiver cadastrado ).
 
 
 
 **Projeto:** 
 
-Foi criado uma agenda em desenvolvimento web, usando as seguintes ferramentas: PHP, JAVASCRIPT, HTML, CSS, AJAX, BOOTSTRAP e banco de dados SQL SERVER
+Foi criado uma agenda em desenvolvimento web, usando as seguintes ferramentas: PHP, JAVASCRIPT, HTML, CSS, AJAX, BOOTSTRAP e banco de dados SQL SERVER. 
 
+**Funcional:** 
 
+No funcionamento da agenda, terão perfís distintos: 
 
+<b>Administrador:</b>
+Pode -> adicionar, editar, atualizar e remover o colaborador.
+<br/>
+<b>Colaborador:</b>
+Pode -> apenas visualizar e consultar contatos
 
-
+#
 ###### 0.1 Projeto Agenda SENAI schema
 
 
