@@ -37,7 +37,7 @@ Pode -> apenas visualizar e consultar contatos
 ### SCREEN 01 ( Apena visualização )
 <img img width="600" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/agenda_01.png">
 
-### SCREEN 02 ( Join do departamento no banco Sql Server )
+### SCREEN 02 ( Join do departamento no banco Sql Server para ser visualizado na SCREEN 1)
 <img img width="600" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/agenda_001.png">
 
 ### SCREEN 03 ( ?super=usuario - Liberando o perfil de super usuário )
