@@ -25,10 +25,18 @@ Foi criado uma agenda em desenvolvimento web, usando as seguintes ferramentas: P
 No funcionamento da agenda, terão perfís distintos: 
 
 <b>Administrador:</b>
-Pode -> adicionar, editar, atualizar e remover o colaborador.
+Pode -> adicionar, editar, atualizar e remover o colaborador. (OBS: Foi criado um parâmetro que passamos na barra de endereço para que apareça afunção de administrador )
 <br/>
 <b>Colaborador:</b>
 Pode -> apenas visualizar e consultar contatos
+
+#
+###### 0.1 Imagens
+
+<img img width="600" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/agenda_senai1.png">
+<img img width="600" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/agenda_senai2.png">
+<img img width="600" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/agenda_senai3.png">
+
 
 #
 ###### 0.1 Projeto Agenda SENAI schema
