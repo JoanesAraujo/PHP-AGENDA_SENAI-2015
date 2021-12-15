@@ -32,7 +32,7 @@ Pode -> apenas visualizar e consultar contatos
 
 #
 ###### 0.1 Imagens
-
+<br/>
 <img img width="600" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/agenda_senai1.png">
 <img img width="600" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/agenda_senai2.png">
 <img img width="600" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/agenda_senai3.png">
@@ -48,7 +48,7 @@ Pode -> apenas visualizar e consultar contatos
 <img img src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/schema.png">
 
 
-
+#
 ###### 0.2 Script da tabela no banco de dados Sql Server 2008 R2
 <br/>
 
