@@ -45,7 +45,7 @@ Pode -> apenas visualizar e consultar contatos
 
 
 
-<img img src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/schema.png">
+<img img width="600" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/schema.png">
 
 
 #
