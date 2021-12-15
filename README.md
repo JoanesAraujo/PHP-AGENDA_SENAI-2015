@@ -34,7 +34,29 @@ Pode -> apenas visualizar e consultar contatos
 #### 0.1 Imagens
 <br/>
 
+### SCREEN 01 ( Apena visualização )
+<img img width="600" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/agenda_01.png">
 
+### SCREEN 02 ( Join do departamento no banco Sql Server para ser visualizado na SCREEN 1)
+<img img width="600" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/agenda_001.png">
+
+### SCREEN 03 ( ?super=usuario - Liberando o perfil de super usuário )
+<img img width="600" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/agenda_02.png">
+
+### SCREEN 04 ( Cadastrando usuário pela interface )
+<img img width="600" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/agenda_03.png">
+
+### SCREEN 05 ( Depois de adicionar o usuário, pode cadastrar o número de telefone )
+<img img width="600" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/agenda_0004.png">
+
+### SCREEN 06 ( Inserindo usuário pelo banco sql server )
+<img img width="600" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/agenda_05.png">
+
+### SCREEN 07 ( SELECT na base de dados do usuário )
+<img img width="600" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/agenda_06.png">
+
+### SCREEN 08 ( Visualização do usuário colaborador )
+<img img width="600" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/agenda_07.png">
 
 
 #
@@ -56,4 +78,4 @@ Pode -> apenas visualizar e consultar contatos
 
 
 
-Obs: O projeto não foi implementado por falta de tempo. Não existe problema com a base de dados aqui apresentada, na questão de exposição de dados da empresa, já que a mesma unificou todo o sistema "S" ( SENAI, SESI, FIEPE, IEL) E , esse banco, **nunca foi rodado**.
+Obs: O projeto não foi implementado por falta de tempo. Não existe problema com a base de dados aqui apresentada ( <b>pois se encontra no meu banco de dados local</b> ), na questão de exposição de dados da empresa, já que a mesma unificou todo o sistema "S" ( SENAI, SESI, FIEPE, IEL) Sendo assim, esse banco, **nunca foi rodado**. 
