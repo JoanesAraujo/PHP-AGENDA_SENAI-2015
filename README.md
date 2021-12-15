@@ -24,8 +24,8 @@ Foi criado uma agenda em desenvolvimento web, usando as seguintes ferramentas: P
 
 No funcionamento da agenda, terão perfís distintos: 
 
-<b>Administrador:</b>
-Pode -> adicionar, editar, atualizar e remover o colaborador. (OBS: Foi criado um parâmetro que passamos na barra de endereço para que apareça afunção de administrador )
+<b>Super Usuário:</b>
+Pode -> adicionar, editar, atualizar e remover o colaborador. (OBS: Foi criado um parâmetro que passamos na barra de endereço para que apareça afunção de super usuário )
 <br/>
 <b>Colaborador:</b>
 Pode -> apenas visualizar e consultar contatos
@@ -34,17 +34,29 @@ Pode -> apenas visualizar e consultar contatos
 #### 0.1 Imagens
 <br/>
 
-### SCREEN 01
-<img img width="600" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/agenda_senai1.png">
+### SCREEN 01 ( Apena visualização )
+<img img width="600" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/agenda_01.png">
 
-### SCREEN 02
-<img img width="600" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/agenda_senai5.png">
+### SCREEN 02 ( Join do departamento no banco Sql Server )
+<img img width="600" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/agenda_001.png">
 
-### SCREEN 03
-<img img width="600" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/agenda_senai2.png">
+### SCREEN 03 ( ?super=usuario - Liberando o perfil de super usuário )
+<img img width="600" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/agenda_02.png">
 
-### SCREEN 04
-<img img width="600" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/agenda_senai3.png">
+### SCREEN 04 ( Cadastrando usuário pela interface )
+<img img width="600" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/agenda_03.png">
+
+### SCREEN 05 ( Depois de adicionar o usuário, pode cadastrar o número de telefone )
+<img img width="600" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/agenda_0004.png">
+
+### SCREEN 06 ( Inserindo usuário pelo banco sql server )
+<img img width="600" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/agenda_05.png">
+
+### SCREEN 07 ( SELECT na base de dados do usuário )
+<img img width="600" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/agenda_06.png">
+
+### SCREEN 08 ( Visualização do usuário colaborador )
+<img img width="600" src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/imagem_agenda_senai/agenda_07.png">
 
 
 #
